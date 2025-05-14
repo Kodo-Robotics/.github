@@ -18,7 +18,7 @@ Inspired by Japanese principles of precision (精度), elegance (優雅), and ha
 
 ## 📦 Projects
 Explore our repositories:
-- [ROS2 Environment Manager]([https://github.com/kodo-robotics/rosenv](https://github.com/Kodo-Robotics/ROS2-Environment-Manager)): Virtual ROS2 environments powered by Vagrant
+- [ros2em](https://github.com/kodo-robotics/ros2em): Virtual ROS2 environments powered by Vagrant
 - [Coming soon...] More tools to streamline robotics workflows
 
 ## 🤝 Contributing
