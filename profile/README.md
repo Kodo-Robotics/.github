@@ -1,6 +1,8 @@
 # コード・ロボティクス  
 *Code for the future of robotics*
 
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/EK3pHZxrKy)
+
 Welcome to the organization dedicated to building elegant, modular, and developer-friendly tools for the ROS2 ecosystem.
 
 ## 🧭 Mission
